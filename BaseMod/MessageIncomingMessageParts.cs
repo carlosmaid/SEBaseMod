@@ -1,7 +1,7 @@
 ﻿using System.Linq;
 using ProtoBuf;
 
-namespace RestoreCharInv
+namespace BaseMod
 {
     [ProtoContract]
     public class MessageIncomingMessageParts : MessageBase

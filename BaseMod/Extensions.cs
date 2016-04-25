@@ -9,7 +9,7 @@ using VRage.Game.Entity;
 using VRage.Game.ModAPI;
 using VRage.ObjectBuilders;
 
-namespace RestoreCharInv
+namespace BaseMod
 {
     public static class Extensions
     {

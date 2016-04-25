@@ -1,7 +1,6 @@
 ﻿using System.Collections.Generic;
-using VRage.Utils;
 
-namespace RestoreCharInv
+namespace BaseMod
 {
     public class TimerRegistry
     {

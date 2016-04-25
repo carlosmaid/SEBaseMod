@@ -7,8 +7,8 @@
     <ProjectGuid>{D4D6C5C0-B1CC-4561-83B5-AA5130DDF9EE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>RestoreCharInv</RootNamespace>
-    <AssemblyName>RestoreCharInv</AssemblyName>
+    <RootNamespace>BaseMod</RootNamespace>
+    <AssemblyName>BaseMod</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <BaseOutputPath>..\binstuff\bin</BaseOutputPath>
@@ -76,7 +76,7 @@
     <Compile Include="MessageIncomingMessageParts.cs" />
     <Compile Include="MessageSide.cs" />
     <Compile Include="Support.cs" />
-    <Compile Include="RestoreInvSessionComp.cs" />
+    <Compile Include="BaseModSessionComponent.cs" />
     <Compile Include="ThreadsafeTimer.cs" />
     <Compile Include="TimerRegistry.cs" />
   </ItemGroup>

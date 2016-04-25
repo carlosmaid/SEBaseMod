@@ -1,6 +1,6 @@
 ﻿using ProtoBuf;
 
-namespace RestoreCharInv
+namespace BaseMod
 {
     /// <summary>
     /// This class is a quick workaround to get an abstract class deserialized. It is to be removed when using a byte serializer.

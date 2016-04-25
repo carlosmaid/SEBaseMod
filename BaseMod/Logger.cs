@@ -1,6 +1,6 @@
 ﻿using VRage.Utils;
 
-namespace RestoreCharInv
+namespace BaseMod
 {
     public static class Logger
     {

@@ -3,9 +3,8 @@ using System.Linq;
 using Sandbox.ModAPI;
 using VRage.Game;
 using VRage.Game.Components;
-using VRage.Utils;
 
-namespace RestoreCharInv
+namespace BaseMod
 {
     [MySessionComponentDescriptor(MyUpdateOrder.BeforeSimulation)]
     public class BaseModSessionComponent : MySessionComponentBase

@@ -1,4 +1,4 @@
-﻿namespace RestoreCharInv
+﻿namespace BaseMod
 {
     public enum MessageSide
     {

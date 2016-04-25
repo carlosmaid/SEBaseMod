@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using Sandbox.ModAPI;
 
-namespace RestoreCharInv
+namespace BaseMod
 {
     public abstract class FileBase
     {

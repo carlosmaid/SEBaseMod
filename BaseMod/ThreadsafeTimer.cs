@@ -1,8 +1,7 @@
 ﻿using System;
 using System.Timers;
-using VRage.Utils;
 
-namespace RestoreCharInv
+namespace BaseMod
 {
     public class ThreadsafeTimer
     {

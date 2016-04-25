@@ -2,7 +2,7 @@
 using System.Xml.Serialization;
 using ProtoBuf;
 
-namespace RestoreCharInv
+namespace BaseMod
 {
     // ALL CLASSES DERIVED FROM MessageBase MUST BE ADDED HERE
     [XmlInclude(typeof(MessageIncomingMessageParts))]

@@ -4,7 +4,7 @@ using System.Linq;
 using Sandbox.ModAPI;
 using VRage.Game.ModAPI;
 
-namespace RestoreCharInv
+namespace BaseMod
 {
     /// <summary>
     /// Conains useful methods and fields for organizing the connections.
