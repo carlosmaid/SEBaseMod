@@ -14,7 +14,7 @@ namespace RestoreCharInv
         /// <summary>
         /// Id for messages.
         /// </summary>
-        public const ushort ConnectionId = 56278;
+        public const ushort ConnectionId = ;
 
         private const int MAX_MESSAGE_SIZE = 4096;
 
